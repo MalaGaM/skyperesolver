@@ -1,0 +1,2 @@
+# skyperesolver
+Skype resolver
