@@ -1,0 +1,5 @@
+C:\Users\Adam\Documents\My Dropbox\Programming\C# .NET\Skype4COMUserProfile\Skype4COMUserProfile\bin\Release\Skype4COMUserProfile.exe
+C:\Users\Adam\Documents\My Dropbox\Programming\C# .NET\Skype4COMUserProfile\Skype4COMUserProfile\bin\Release\Skype4COMUserProfile.pdb
+C:\Users\Adam\Documents\My Dropbox\Programming\C# .NET\Skype4COMUserProfile\Skype4COMUserProfile\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\My Dropbox\Programming\C# .NET\Skype4COMUserProfile\Skype4COMUserProfile\obj\x86\Release\Skype4COMUserProfile.exe
+C:\Users\Adam\Documents\My Dropbox\Programming\C# .NET\Skype4COMUserProfile\Skype4COMUserProfile\obj\x86\Release\Skype4COMUserProfile.pdb
